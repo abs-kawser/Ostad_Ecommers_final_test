@@ -5,4 +5,4 @@ https://github.com/abs-kawser/Ostad_Ecommers_final_test/tree/main/Aungaboron_Cli
 https://github.com/abs-kawser/Ostad_Ecommers_final_test/tree/main/Aungaboron_Server-main
 
 /*========== My deployed version link =======*/
-https://ismile-ecommerce.netlify.app/
+
